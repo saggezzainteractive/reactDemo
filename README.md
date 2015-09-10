@@ -5,15 +5,18 @@ A dev hour demo on ReactJS
 
 ### npm
 make sure you've installed node and that you have npm on your path/bash
-	npm -v
+    
+    npm -v
 
 ### webpack
 Install webpack globally
-	npm install webpack -g
+	
+    npm install webpack -g
 
 ## application dependencies
 Install all app dependencies. From the root folder, type
-	npm install
+	
+    npm install
 
 ## optional dependencies
 Install the React Dev Tools extension
@@ -21,10 +24,12 @@ https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopl
 
 ## bundling the app
 From the root folder type the following to bundle the app
-	webpack
+    
+    webpack
 
 To start the code watching type
-	webpack -w
+    
+    webpack -w
 
 ## running the app
 Start a webserver from the root/public folder and visit the index.html in a browser
